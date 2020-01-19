@@ -10,7 +10,7 @@ Make sure these boxes are checked before submitting your issue - thank you!
     (examples: `GNU 6.2, Intel 17 Update 1, PGI 15.10`)
   * math library
 
-    (examples: `OpenBLAS, ATLAS, Intel MKL, AMCL, OSX VecLib, GAMESS blas.o, PGI BLAS`)
+    (examples: `OpenBLAS, ATLAS, Intel MKL, ACML, OSX VecLib, GAMESS blas.o, PGI BLAS`)
   * communication library
 
     (examples: `sockets, Intel MPI, MVAPICH, MPICH, MS-MPI, OpenMPI`)
