@@ -18,5 +18,5 @@ Make sure these boxes are checked before submitting your issue - thank you!
 
 - (Optional) A copy of your install.info file.
 
-   If the input file is more than 50 lines then please send it as an attachment to the following email address (issuetracker@si.msg.chem.iastate.edu) with the subject being the title of the issue.
+   If the input file is more than 50 lines then please send it as an attachment to the following email address (gamess@iastate.edu) with the subject being the title of the issue.
 
